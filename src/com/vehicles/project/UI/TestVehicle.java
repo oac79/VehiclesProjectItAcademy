@@ -1,4 +1,4 @@
-package userInterface;
+package com.vehicles.project.UI;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
